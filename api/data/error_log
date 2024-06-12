@@ -1,0 +1,941 @@
+[11-Aug-2023 15:25:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 15:25:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 15:25:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Aug-2023 15:37:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 15:37:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 15:37:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Aug-2023 21:21:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 21:21:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 21:21:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Aug-2023 22:31:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 22:31:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Aug-2023 22:31:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[12-Aug-2023 14:22:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[12-Aug-2023 14:22:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[12-Aug-2023 14:22:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[12-Aug-2023 20:52:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[12-Aug-2023 20:52:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[12-Aug-2023 20:52:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 06:26:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 06:26:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 06:26:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 06:29:00 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 06:29:00 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 06:29:00 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 09:31:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 09:31:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 09:31:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 09:32:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 09:32:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 09:32:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 09:34:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 09:34:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 09:34:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:14:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:14:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:14:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:29:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:29:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:29:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:41:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:41:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:41:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:44:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:44:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:44:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:46:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:46:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:46:01 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:47:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:47:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:47:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:47:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:47:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:47:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:51:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:51:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:51:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:51:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:51:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:51:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 12:52:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:52:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 12:52:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 13:04:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 13:04:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 13:04:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[13-Aug-2023 15:01:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 15:01:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Aug-2023 15:01:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Aug-2023 16:12:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Aug-2023 16:12:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Aug-2023 16:12:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Aug-2023 20:42:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[14-Aug-2023 20:44:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[14-Aug-2023 20:57:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[14-Aug-2023 21:17:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[14-Aug-2023 21:18:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[14-Aug-2023 22:51:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Aug-2023 22:51:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Aug-2023 22:51:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Aug-2023 23:11:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[15-Aug-2023 06:07:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[15-Aug-2023 10:31:40 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:31:40 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:31:40 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 10:34:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:34:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:34:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 10:37:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:37:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:37:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 10:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 10:51:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:51:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 10:51:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 11:29:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 11:29:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 11:29:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 11:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 11:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 11:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 11:54:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 11:54:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 11:54:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 12:16:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:16:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:16:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 12:18:29 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:18:29 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:18:29 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 12:19:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:19:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:19:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 12:22:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:22:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:22:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 12:25:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:25:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:25:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Aug-2023 12:40:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:40:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Aug-2023 12:40:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 12:43:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 12:43:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 12:43:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 13:33:57 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 13:33:57 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 13:33:57 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 14:02:40 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 14:02:40 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 14:02:40 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 15:02:35 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 15:02:35 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 15:02:35 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 15:02:38 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 15:02:38 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 15:02:38 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 15:09:52 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 15:09:52 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 15:09:52 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[17-Aug-2023 19:26:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 19:26:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Aug-2023 19:26:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 20:55:58 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 20:55:58 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 20:55:58 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 20:58:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 20:58:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 20:58:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:00:14 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:00:14 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:00:14 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:04:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:04:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:04:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:17:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:17:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:17:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:21:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:21:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:21:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:27:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:27:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:27:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:29:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:29:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:29:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:31:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:31:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:31:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:35:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:35:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:35:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:39:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:39:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:39:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:43:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:43:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:43:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:54:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:54:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:54:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:58:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:58:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:58:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 21:59:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:59:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 21:59:54 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:02:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:02:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:02:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:05:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:28:43 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:28:43 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:28:43 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:31:56 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:31:56 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:31:56 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:37:18 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:37:18 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:37:18 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:47:56 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:47:56 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:47:56 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[18-Aug-2023 22:51:07 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:51:07 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[18-Aug-2023 22:51:07 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:07:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:07:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:07:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:15:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:15:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:15:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:15:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:17:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:17:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:17:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:20:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:20:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:20:07 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:24:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:24:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:24:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:39:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:39:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:39:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:41:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:41:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:41:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:43:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:43:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:43:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:50:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:50:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:50:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 09:50:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:50:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 09:50:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 10:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 10:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 10:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 10:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 10:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 10:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 10:49:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 10:49:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 10:49:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 11:10:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 11:10:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 11:10:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 11:14:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 11:14:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 11:14:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 11:17:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 11:17:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 11:17:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 20:02:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:02:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:02:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 20:09:19 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:09:19 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:09:19 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 20:24:08 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:24:08 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:24:08 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[19-Aug-2023 20:25:21 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:25:21 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[19-Aug-2023 20:25:21 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 19:21:23 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 19:21:23 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 19:21:23 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 20:56:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 20:56:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 20:56:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 20:57:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 20:57:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 20:57:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 20:58:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 20:58:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 20:58:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 21:00:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:00:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:00:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 21:04:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:04:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:04:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 21:17:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:17:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:17:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 21:20:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:20:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:20:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 21:23:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:23:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:23:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Aug-2023 21:24:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:24:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[21-Aug-2023 21:24:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:11:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:11:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:11:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:19:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:19:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:19:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:23:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:23:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:23:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:38:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:38:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:38:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:39:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:39:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:39:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:40:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:40:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:40:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:43:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:43:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:43:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:46:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:46:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:46:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:47:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:47:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:47:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 20:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 20:48:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 21:35:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 21:35:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 21:35:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:09:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:09:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:09:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:10:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:10:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:10:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:13:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:13:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:13:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:21:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:21:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:21:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:22:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:22:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:22:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:23:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:23:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:23:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[22-Aug-2023 22:45:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:45:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[22-Aug-2023 22:45:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[23-Aug-2023 18:29:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 18:29:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 18:29:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[23-Aug-2023 18:31:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 18:31:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 18:31:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[23-Aug-2023 18:38:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 18:38:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 18:38:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[23-Aug-2023 19:03:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 19:03:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 19:03:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[23-Aug-2023 20:01:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 20:01:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[23-Aug-2023 20:01:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[24-Aug-2023 18:28:47 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[24-Aug-2023 18:28:47 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[24-Aug-2023 18:28:47 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[25-Aug-2023 07:41:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 07:41:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 07:41:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[25-Aug-2023 12:01:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:01:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:01:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[25-Aug-2023 12:03:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:03:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:03:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[25-Aug-2023 12:04:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:04:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:04:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[25-Aug-2023 12:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:05:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[25-Aug-2023 12:18:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:18:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[25-Aug-2023 12:18:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[26-Aug-2023 14:47:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[26-Aug-2023 14:47:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[26-Aug-2023 14:47:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[26-Aug-2023 14:52:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[26-Aug-2023 14:52:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[26-Aug-2023 14:52:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 06:21:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 06:21:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 06:21:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 06:23:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 06:23:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 06:23:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 06:25:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 06:25:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 06:25:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:08:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:08:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:08:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:13:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:13:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:13:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:14:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:14:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:14:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:15:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:15:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:15:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:18:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:18:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:18:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:41:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:41:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:41:10 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 07:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 07:43:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[27-Aug-2023 19:07:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 19:07:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[27-Aug-2023 19:07:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[28-Aug-2023 11:25:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2013 Lost connection to MySQL server during query in /home/swiftear/public_html/core/Models/ApiModel.php:358
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/ApiModel.php(358): PDOStatement->execute()
+#1 /home/swiftear/public_html/core/Controllers/ApiAccess.php(304): ApiModel->creditReferalBonus()
+#2 /home/swiftear/public_html/api/data/index.php(267): ApiAccess->creditReferalBonus()
+#3 {main}
+  thrown in /home/swiftear/public_html/core/Models/ApiModel.php on line 358
+[30-Aug-2023 17:44:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[30-Aug-2023 17:44:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[30-Aug-2023 17:44:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[30-Aug-2023 21:12:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[30-Aug-2023 21:12:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[30-Aug-2023 21:12:24 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[31-Aug-2023 13:56:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[31-Aug-2023 13:56:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[31-Aug-2023 13:56:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[01-Sep-2023 19:07:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[01-Sep-2023 19:11:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[02-Sep-2023 07:51:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[02-Sep-2023 07:51:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[02-Sep-2023 07:51:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[02-Sep-2023 12:20:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[02-Sep-2023 12:20:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[02-Sep-2023 12:20:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[03-Sep-2023 08:47:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 08:47:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 08:47:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[03-Sep-2023 18:53:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 18:53:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 18:53:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[03-Sep-2023 21:28:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:28:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:28:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[03-Sep-2023 21:37:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:37:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:37:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[03-Sep-2023 21:44:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:44:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:44:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[03-Sep-2023 21:52:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:52:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[03-Sep-2023 21:52:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[04-Sep-2023 11:41:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[04-Sep-2023 11:41:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[04-Sep-2023 11:41:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[04-Sep-2023 11:51:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[04-Sep-2023 11:51:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[04-Sep-2023 11:51:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[04-Sep-2023 11:54:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[04-Sep-2023 11:54:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[04-Sep-2023 11:54:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[05-Sep-2023 07:30:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[05-Sep-2023 07:57:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[05-Sep-2023 20:23:37 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'REF-1693941817' for key 'transactions.transref' in /home/swiftear/public_html/core/Models/ApiModel.php:404
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/ApiModel.php(404): PDOStatement->execute()
+#1 /home/swiftear/public_html/core/Controllers/ApiAccess.php(304): ApiModel->creditReferalBonus()
+#2 /home/swiftear/public_html/api/data/index.php(267): ApiAccess->creditReferalBonus()
+#3 {main}
+  thrown in /home/swiftear/public_html/core/Models/ApiModel.php on line 404
+[06-Sep-2023 10:59:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[06-Sep-2023 10:59:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[06-Sep-2023 10:59:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[06-Sep-2023 17:19:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[06-Sep-2023 17:19:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[06-Sep-2023 17:19:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[06-Sep-2023 17:20:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[06-Sep-2023 17:20:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[06-Sep-2023 17:20:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[07-Sep-2023 19:44:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[07-Sep-2023 19:44:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[07-Sep-2023 19:44:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[07-Sep-2023 19:48:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[07-Sep-2023 19:48:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[07-Sep-2023 19:48:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[07-Sep-2023 19:51:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[07-Sep-2023 19:51:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[07-Sep-2023 19:51:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[07-Sep-2023 20:07:02 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'REF-1694113622' for key 'transactions.transref' in /home/swiftear/public_html/core/Models/ApiModel.php:404
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/ApiModel.php(404): PDOStatement->execute()
+#1 /home/swiftear/public_html/core/Controllers/ApiAccess.php(304): ApiModel->creditReferalBonus()
+#2 /home/swiftear/public_html/api/data/index.php(267): ApiAccess->creditReferalBonus()
+#3 {main}
+  thrown in /home/swiftear/public_html/core/Models/ApiModel.php on line 404
+[07-Sep-2023 20:50:32 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'REF-1694116232' for key 'transactions.transref' in /home/swiftear/public_html/core/Models/ApiModel.php:404
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/ApiModel.php(404): PDOStatement->execute()
+#1 /home/swiftear/public_html/core/Controllers/ApiAccess.php(304): ApiModel->creditReferalBonus()
+#2 /home/swiftear/public_html/api/data/index.php(267): ApiAccess->creditReferalBonus()
+#3 {main}
+  thrown in /home/swiftear/public_html/core/Models/ApiModel.php on line 404
+[08-Sep-2023 06:36:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[09-Sep-2023 21:21:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:21:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:21:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:22:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:22:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:22:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:26:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:26:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:26:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:26:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:26:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:26:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:28:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:28:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:28:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:29:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:29:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:29:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:30:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:30:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:30:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:31:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:31:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:31:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:32:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:32:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:32:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:34:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:34:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:34:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:40:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:40:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:40:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:41:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:41:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:41:44 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:41:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:41:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:41:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:45:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:45:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:45:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:50:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:50:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:50:57 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:51:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:51:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:51:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:53:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:53:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:53:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:53:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:55:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:55:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:55:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:55:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:55:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:55:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:56:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:56:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:56:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:58:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:58:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:58:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 21:58:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:58:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 21:58:55 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 22:01:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:01:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:01:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 22:02:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:02:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:02:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 22:02:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:02:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:02:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[09-Sep-2023 22:04:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:04:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[09-Sep-2023 22:04:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[10-Sep-2023 20:28:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:28:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:28:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[10-Sep-2023 20:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:31:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[10-Sep-2023 20:37:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:37:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:37:22 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[10-Sep-2023 20:37:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:37:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:37:51 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[10-Sep-2023 20:42:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:42:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[10-Sep-2023 20:42:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:33:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:33:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:33:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:34:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:34:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:34:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:37:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:37:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:37:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:38:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:38:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:38:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:47:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:47:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:47:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:49:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:49:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:49:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:52:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:52:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:52:56 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:54:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:54:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:54:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 08:56:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:56:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 08:56:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 09:03:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:03:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:03:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 09:06:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:06:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:06:40 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 09:09:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:09:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:09:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 09:28:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:28:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:28:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 09:49:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:49:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:49:04 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 09:50:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:50:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 09:50:39 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:03:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:03:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:03:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:16:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:16:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:16:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:24:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:24:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:24:03 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:25:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:25:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:25:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:29:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:29:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:29:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:29:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:29:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:29:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:31:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:31:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:31:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:33:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:33:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:33:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:33:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:33:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:33:38 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:38:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:38:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:38:11 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:39:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:39:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:39:32 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:53:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:53:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:53:02 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 10:55:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:55:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 10:55:09 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 11:15:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 11:15:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 11:15:15 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 11:19:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 11:19:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 11:19:50 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 11:27:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'REF-1694428071' for key 'transactions.transref' in /home/swiftear/public_html/core/Models/ApiModel.php:404
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/ApiModel.php(404): PDOStatement->execute()
+#1 /home/swiftear/public_html/core/Controllers/ApiAccess.php(304): ApiModel->creditReferalBonus()
+#2 /home/swiftear/public_html/api/data/index.php(267): ApiAccess->creditReferalBonus()
+#3 {main}
+  thrown in /home/swiftear/public_html/core/Models/ApiModel.php on line 404
+[11-Sep-2023 15:15:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 15:15:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 15:15:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 16:44:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 16:44:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 16:44:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 22:21:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:21:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:21:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 22:22:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:22:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:22:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 22:25:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:25:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:25:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[11-Sep-2023 22:29:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:29:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[11-Sep-2023 22:29:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[12-Sep-2023 12:15:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[13-Sep-2023 10:05:45 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[13-Sep-2023 16:32:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Sep-2023 16:32:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[13-Sep-2023 16:32:34 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 08:36:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 08:36:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 08:36:41 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 08:39:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 08:39:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 08:39:20 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 10:32:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 10:32:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 10:32:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 10:49:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 10:49:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 10:49:49 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 13:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 13:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 13:35:21 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 13:36:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 13:36:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 13:36:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 18:01:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 18:01:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 18:01:47 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 18:02:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 18:02:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 18:02:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[14-Sep-2023 20:03:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 20:03:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[14-Sep-2023 20:03:23 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[15-Sep-2023 11:13:46 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[15-Sep-2023 11:14:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[15-Sep-2023 12:47:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[15-Sep-2023 18:44:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Sep-2023 18:44:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[15-Sep-2023 18:44:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[16-Sep-2023 15:55:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$AccessToken in /home/swiftear/public_html/core/Controllers/InternetData.php on line 132
+[17-Sep-2023 06:40:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Sep-2023 06:40:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 78
+[17-Sep-2023 06:40:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/swiftear/public_html/core/Controllers/InternetData.php on line 81
+[21-Sep-2023 11:23:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:23:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:23:08 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 81
+[21-Sep-2023 11:25:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:25:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:25:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 81
+[21-Sep-2023 11:29:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:29:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:29:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 81
+[21-Sep-2023 11:30:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:30:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[21-Sep-2023 11:30:43 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 81
+[22-Sep-2023 15:07:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[22-Sep-2023 15:07:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[22-Sep-2023 15:07:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 81
+[22-Sep-2023 15:09:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[22-Sep-2023 15:09:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 78
+[22-Sep-2023 15:09:05 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/masterte/public_html/core/Controllers/InternetData.php on line 81
+[26-Sep-2023 14:40:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[26-Sep-2023 14:40:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[26-Sep-2023 14:40:48 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[28-Sep-2023 20:42:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[28-Sep-2023 20:42:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[28-Sep-2023 20:42:27 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[04-Oct-2023 12:01:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[04-Oct-2023 12:01:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[04-Oct-2023 12:01:31 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[10-Oct-2023 21:04:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[10-Oct-2023 21:04:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[10-Oct-2023 21:04:00 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[16-Oct-2023 20:54:11 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[16-Oct-2023 20:54:11 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[16-Oct-2023 20:54:11 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[16-Oct-2023 21:05:20 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[16-Oct-2023 21:05:20 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[16-Oct-2023 21:05:20 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[16-Oct-2023 21:06:58 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[16-Oct-2023 21:06:58 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[16-Oct-2023 21:06:58 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[23-Oct-2023 20:37:41 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[23-Oct-2023 20:37:41 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[23-Oct-2023 20:37:41 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[24-Oct-2023 07:18:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 07:18:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 07:18:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[24-Oct-2023 07:25:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 07:25:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 07:25:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[24-Oct-2023 07:36:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 07:36:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 07:36:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[24-Oct-2023 08:00:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 08:00:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 08:00:29 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[24-Oct-2023 20:38:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 20:38:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 20:38:55 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[24-Oct-2023 20:42:49 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 20:42:49 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[24-Oct-2023 20:42:49 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[26-Oct-2023 17:43:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[26-Oct-2023 17:43:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[26-Oct-2023 17:43:26 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[26-Oct-2023 17:48:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[26-Oct-2023 17:48:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[26-Oct-2023 17:48:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[27-Oct-2023 12:30:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[27-Oct-2023 12:30:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[27-Oct-2023 12:30:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[27-Oct-2023 12:31:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[27-Oct-2023 12:31:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[27-Oct-2023 12:31:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[27-Oct-2023 18:41:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[27-Oct-2023 18:41:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[27-Oct-2023 18:41:17 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[31-Oct-2023 12:45:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 12:45:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 12:45:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[31-Oct-2023 20:28:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 20:28:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 20:28:27 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[31-Oct-2023 20:30:20 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 20:30:20 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 20:30:20 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[31-Oct-2023 20:35:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 20:35:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 20:35:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[31-Oct-2023 23:36:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 23:36:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[31-Oct-2023 23:36:36 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[01-Nov-2023 10:38:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[01-Nov-2023 10:38:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[01-Nov-2023 10:38:12 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[02-Nov-2023 10:10:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[02-Nov-2023 10:10:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[02-Nov-2023 10:10:59 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[03-Nov-2023 10:17:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[03-Nov-2023 10:17:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[03-Nov-2023 10:17:42 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[03-Nov-2023 22:29:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[03-Nov-2023 22:29:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[03-Nov-2023 22:29:52 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[04-Nov-2023 20:24:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[04-Nov-2023 20:24:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[04-Nov-2023 20:24:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[04-Nov-2023 20:28:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[04-Nov-2023 20:28:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[04-Nov-2023 20:28:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[05-Nov-2023 19:22:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[05-Nov-2023 19:22:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[05-Nov-2023 19:22:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[05-Nov-2023 19:24:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[05-Nov-2023 19:24:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[05-Nov-2023 19:24:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[08-Nov-2023 22:21:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[08-Nov-2023 22:21:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 78
+[08-Nov-2023 22:21:28 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/spanetwa/opexdata.com.ng/core/Controllers/InternetData.php on line 81
+[12-Nov-2023 23:04:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/cremsvtu/public_html/core/Controllers/InternetData.php on line 78
+[12-Nov-2023 23:04:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/cremsvtu/public_html/core/Controllers/InternetData.php on line 78
+[12-Nov-2023 23:04:16 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/cremsvtu/public_html/core/Controllers/InternetData.php on line 81
+[13-Nov-2023 15:53:43 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/cremsvtu/public_html/core/Controllers/InternetData.php on line 78
+[13-Nov-2023 15:53:43 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/cremsvtu/public_html/core/Controllers/InternetData.php on line 78
+[13-Nov-2023 15:53:43 Africa/Lagos] PHP Notice:  Undefined property: stdClass::$Status in /home/cremsvtu/public_html/core/Controllers/InternetData.php on line 81
+[20-Nov-2023 13:49:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 78
+[20-Nov-2023 13:49:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 78
+[20-Nov-2023 13:49:16 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 81
+[20-Nov-2023 13:51:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 78
+[20-Nov-2023 13:51:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 78
+[20-Nov-2023 13:51:13 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 81
+[20-Nov-2023 13:57:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 78
+[20-Nov-2023 13:57:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 78
+[20-Nov-2023 13:57:14 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/olatelecomservices.com.ng/core/Controllers/InternetData.php on line 81
+[22-Nov-2023 19:00:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[22-Nov-2023 19:00:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[22-Nov-2023 19:00:30 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[22-Nov-2023 19:02:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[22-Nov-2023 19:02:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[22-Nov-2023 19:02:33 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 08:21:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 08:21:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 08:21:25 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 08:26:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 08:26:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 08:26:37 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 08:58:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 08:58:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 08:58:58 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 11:22:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:22:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:22:19 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 11:23:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:23:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:23:35 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 11:29:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:29:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:29:06 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[23-Nov-2023 11:30:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:30:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[23-Nov-2023 11:30:18 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81
+[25-Nov-2023 12:43:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[25-Nov-2023 12:43:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 78
+[25-Nov-2023 12:43:53 Africa/Lagos] PHP Warning:  Undefined property: stdClass::$Status in /home/daltechsub/omoobatelecom.com.ng/core/Controllers/InternetData.php on line 81

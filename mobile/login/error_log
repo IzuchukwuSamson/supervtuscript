@@ -1,0 +1,395 @@
+[03-Jan-2023 00:21:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:34 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:36 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:37 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:21:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:47 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:22:58 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:24 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:28 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[03-Jan-2023 00:23:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/hopejjiu/ameenwebkey.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/hopejjiu/ameenwebkey.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/hopejjiu/ameenwebkey.com.ng/mobile/login/index.php(24): require_once('/home/hopejjiu/...')
+#5 {main}
+  thrown in /home/hopejjiu/ameenwebkey.com.ng/core/Models/Model.php on line 29
+[28-Aug-2023 11:25:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/swiftear/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/Model.php(29): PDO->__construct()
+#1 /home/swiftear/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/swiftear/public_html/core/Controllers/Subscriber.php(44): Model->__construct()
+#3 /home/swiftear/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/swiftear/public_html/mobile/login/index.php(24): require_once('/home/swiftear/...')
+#5 {main}
+  thrown in /home/swiftear/public_html/core/Models/Model.php on line 29
+[28-Aug-2023 11:25:25 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/swiftear/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/Model.php(29): PDO->__construct()
+#1 /home/swiftear/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/swiftear/public_html/core/Controllers/Subscriber.php(44): Model->__construct()
+#3 /home/swiftear/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/swiftear/public_html/mobile/login/index.php(24): require_once('/home/swiftear/...')
+#5 {main}
+  thrown in /home/swiftear/public_html/core/Models/Model.php on line 29
+[28-Aug-2023 11:25:29 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/swiftear/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/Model.php(29): PDO->__construct()
+#1 /home/swiftear/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/swiftear/public_html/core/Controllers/Subscriber.php(44): Model->__construct()
+#3 /home/swiftear/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/swiftear/public_html/mobile/login/index.php(24): require_once('/home/swiftear/...')
+#5 {main}
+  thrown in /home/swiftear/public_html/core/Models/Model.php on line 29
+[28-Aug-2023 11:25:32 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/swiftear/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/Model.php(29): PDO->__construct()
+#1 /home/swiftear/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/swiftear/public_html/core/Controllers/Subscriber.php(44): Model->__construct()
+#3 /home/swiftear/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/swiftear/public_html/mobile/login/index.php(24): require_once('/home/swiftear/...')
+#5 {main}
+  thrown in /home/swiftear/public_html/core/Models/Model.php on line 29
+[13-Sep-2023 11:25:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/swiftear/public_html/core/Models/Model.php:29
+Stack trace:
+#0 /home/swiftear/public_html/core/Models/Model.php(29): PDO->__construct()
+#1 /home/swiftear/public_html/core/Models/Model.php(23): Model->connectDb()
+#2 /home/swiftear/public_html/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/swiftear/public_html/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/swiftear/public_html/mobile/login/index.php(24): require_once('/home/swiftear/...')
+#5 {main}
+  thrown in /home/swiftear/public_html/core/Models/Model.php on line 29
+[22-Sep-2023 17:50:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'masterte_Data'@'localhost' (using password: YES) in /home/spanetwa/opexdata.com.ng/core/Models/Model.php:29
+Stack trace:
+#0 /home/spanetwa/opexdata.com.ng/core/Models/Model.php(29): PDO->__construct()
+#1 /home/spanetwa/opexdata.com.ng/core/Models/Model.php(23): Model->connectDb()
+#2 /home/spanetwa/opexdata.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/spanetwa/opexdata.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/spanetwa/opexdata.com.ng/mobile/login/index.php(24): require_once('/home/spanetwa/...')
+#5 {main}
+  thrown in /home/spanetwa/opexdata.com.ng/core/Models/Model.php on line 29
+[14-Nov-2023 00:18:48 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:18:51 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:18:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:18:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:18:53 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:36:11 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:41:10 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 00:45:45 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 04:26:01 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 04:26:03 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 04:26:33 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 04:26:33 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 08:07:50 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 08:07:54 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 08:08:40 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 08:08:46 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 08:10:25 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 08:58:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 09:09:18 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 14:30:08 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 14:34:31 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[14-Nov-2023 18:06:42 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'cremsvtu_dev'@'localhost' (using password: YES) in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php:30
+Stack trace:
+#0 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(30): PDO->__construct()
+#1 /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php(24): Model->connectDb()
+#2 /home/daltechsub/olatelecomservices.com.ng/core/Controllers/Subscriber.php(53): Model->__construct()
+#3 /home/daltechsub/olatelecomservices.com.ng/mobile/home/includes/route.php(55): Subscriber->__construct()
+#4 /home/daltechsub/olatelecomservices.com.ng/mobile/login/index.php(24): require_once('/home/daltechsu...')
+#5 {main}
+  thrown in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 30
+[16-Nov-2023 15:26:36 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:39 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:40 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:41 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:42 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:43 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25
+[16-Nov-2023 15:26:44 Africa/Lagos] PHP Parse error:  syntax error, unexpected identifier "olatelecomservices", expecting variable or "$" in /home/daltechsub/olatelecomservices.com.ng/core/Models/Model.php on line 25

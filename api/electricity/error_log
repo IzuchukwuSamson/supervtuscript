@@ -1,0 +1,12 @@
+[11-Oct-2023 00:23:43 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 158
+[11-Oct-2023 00:23:43 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 158
+[11-Oct-2023 00:23:43 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 164
+[11-Oct-2023 00:23:43 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 164
+[11-Oct-2023 00:25:06 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 158
+[11-Oct-2023 00:25:06 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 158
+[11-Oct-2023 00:25:06 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 164
+[11-Oct-2023 00:25:06 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 164
+[11-Oct-2023 00:41:37 Africa/Lagos] PHP Warning:  Attempt to read property "Status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 158
+[11-Oct-2023 00:41:37 Africa/Lagos] PHP Warning:  Attempt to read property "status" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 158
+[11-Oct-2023 00:41:37 Africa/Lagos] PHP Warning:  Attempt to read property "error" on null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 164
+[11-Oct-2023 00:41:37 Africa/Lagos] PHP Warning:  Trying to access array offset on value of type null in /home/spanetwa/opexdata.com.ng/core/Controllers/Electricity.php on line 164

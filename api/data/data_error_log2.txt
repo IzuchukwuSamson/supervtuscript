@@ -1,0 +1,1 @@
+{"status":"fail","msg":"Server Connection Error"} Failed to connect to maskawasubapi.com port 443 after 202 ms: Couldn't connect to server https://maskawasubapi.com/api/data/
